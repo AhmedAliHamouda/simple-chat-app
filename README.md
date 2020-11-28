@@ -1,8 +1,11 @@
-# simple_weather_app
+# Simple_chat_app
 
 A new Flutter application.
+We use here Firebase example to get Data and push data to fireStore 
 
 ## Getting Started
+
+
 
 This project is a starting point for a Flutter application.
 
